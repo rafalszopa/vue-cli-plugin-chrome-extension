@@ -1,0 +1,19 @@
+{
+  "name": "vue-cli-plugin-chrome-extension",
+  "version": "0.1.0",
+  "description": "Vue CLI plugin to add chrome extension file structure and live reload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "vue-cli",
+    "vue-cli-service",
+    "chrome",
+    "chrome-extension",
+    "live-reload"
+  ],
+  "author": "Rafal Szopa",
+  "license": "MIT"
+}
